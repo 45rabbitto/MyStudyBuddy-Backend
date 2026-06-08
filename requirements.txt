@@ -1,5 +1,5 @@
-fastapi==0.115.0
-uvicorn[standard]==0.30.0
-onnxruntime==1.18.0
-numpy==1.24.3
-python-multipart==0.0.12
+fastapi
+uvicorn
+onnxruntime
+numpy
+python-multipart
